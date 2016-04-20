@@ -1,0 +1,5981 @@
+{
+    "@id": "http://www.qidian.com/Book/2182862.aspx", 
+    "@type": [
+        "Novel"
+    ], 
+    "aggregateRating": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "fromSite": "www.qidian.com", 
+                    "ratingCount": "100", 
+                    "reviewCount": "9.9"
+                }
+            ]
+        }
+    ], 
+    "areaOfAuthor": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中国"
+                }
+            ]
+        }
+    ], 
+    "author": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "爱的罗曼史02"
+                }
+            ]
+        }
+    ], 
+    "chapterNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "100"
+                }
+            ]
+        }
+    ], 
+    "coverImage": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "http://image.cmfu.com/books/1.jpg"
+                }
+            ]
+        }
+    ], 
+    "description": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "  s大朝南的宿舍楼里,一个个学生离奇的失踪了。。但这却如他们导员所料。这貌似理所应当的失踪案里到底隐藏着什么?是对未知的恐惧,还是人性的错误?"
+                }
+            ]
+        }
+    ], 
+    "dirUrl": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "http://read.qidian.com/BookReader/2182862.aspx"
+                }
+            ]
+        }
+    ], 
+    "freeChapterNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "50"
+                }
+            ]
+        }
+    ], 
+    "genre": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "恐怖惊悚 "
+                }
+            ]
+        }
+    ], 
+    "isFree": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "isKGCoreData": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "0"
+                }
+            ]
+        }
+    ], 
+    "language": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中文"
+                }
+            ]
+        }
+    ], 
+    "length": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中篇"
+                }
+            ]
+        }
+    ], 
+    "name": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "沉默的兵山"
+                }
+            ]
+        }
+    ], 
+    "publicationStatus": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "publishAgency": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "新华出版社"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "商务出版社"
+                }
+            ]
+        }
+    ], 
+    "realOfAuthor": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "爱的罗曼史02"
+                }
+            ]
+        }
+    ], 
+    "recommendNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "100000"
+                }
+            ]
+        }
+    ], 
+    "sameAS": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "refer": "4d463ad8b846c2995bb0737b4bfbbbe0"
+                }
+            ]
+        }
+    ], 
+    "tag": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "梦游者传奇之身份之谜"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "玄衣风飞"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "霸主风云"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "豪门第一长媳"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "（穿书）为狐"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "梦游者传奇之身份之谜"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "玄衣风飞"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "霸主风云"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "豪门第一长媳"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "（穿书）为狐"
+                }
+            ]
+        }
+    ], 
+    "updateStatus": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "已完结"
+                }
+            ]
+        }
+    ], 
+    "wordCount": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "500000"
+                }
+            ]
+        }
+    ]
+}
+{
+    "@id": "4d463ad8b846c2995bb0737b4bfbbbe0", 
+    "@type": [
+        "Novel"
+    ], 
+    "_uri": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "4d463ad8b846c2995bb0737b4bfbbbe0"
+                }
+            ]
+        }
+    ], 
+    "aggregateRating": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "fromSite": "www.qidian.com", 
+                    "ratingCount": "100", 
+                    "reviewCount": "9.9"
+                }
+            ]
+        }
+    ], 
+    "areaOfAuthor": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中国"
+                }
+            ]
+        }
+    ], 
+    "author": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "爱的罗曼史02"
+                }
+            ]
+        }
+    ], 
+    "chapterNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "100"
+                }
+            ]
+        }
+    ], 
+    "comments": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "茉莉微言", 
+                    "reviewBody": "有句话说的很好: 我固然喜欢看书喜欢思考,但归根结蒂并非适合做学问的人。借用普希金诗句,那便是: 各国历史事件——一座高耸的灰山,我不想在那上面,东觅西寻......", 
+                    "reviewRating": "3", 
+                    "reviewScore": "0.698917"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "钮钮丑丑", 
+                    "reviewBody": "每次看村上的书心中都很忐忑。他的书关于成年人激情的描写都很详细露骨。看着都有那么点紧张,生怕被别人发现。。。不过这都是题外话,那只是故事的一部分而已。 还......", 
+                    "reviewRating": "4", 
+                    "reviewScore": "0.670583"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "Tracy", 
+                    "reviewBody": "推荐理由:原以为是充满小资情怀的轻松沐浴读物,没想到内容涉及到很多法国大革命时期的历史,正好赶上刚看完悲惨世界不久,对法国的好奇和向往也远不止奢华之物可以......", 
+                    "reviewRating": "4", 
+                    "reviewScore": "0.650583"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "菠萝蜜", 
+                    "reviewBody": "沈复分明是中国的普鲁斯特。或者说,普鲁斯特是法国的沈复。中心语与语意重心的安置,使“**是**”的判断句表达法有了情感偏差,so,还不如用数学的表达,说:沈......", 
+                    "reviewRating": "5", 
+                    "reviewScore": "0.749417"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "perpetualyl", 
+                    "reviewBody": "父亲被害,师父惨死,黄蓉离去,母亲自杀,大汗追捕,兄弟诀别,郭靖踏上了南下之路,看着横尸遍野,民生凋敝,这时的他情绪低落到了极点。这个看上去和许三多一样脑......", 
+                    "reviewRating": "4", 
+                    "reviewScore": "0.646583"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "Miss. Coco", 
+                    "reviewBody": "今年读的这本书吧,每个男人都有两个女人,一个红玫瑰,一个白玫瑰。 红玫瑰热情奔放,白玫瑰容情似水。不能说哪个好,哪个不好,对哪个是真爱,对......", 
+                    "reviewRating": "4", 
+                    "reviewScore": "0.702500"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "cecilia", 
+                    "reviewBody": "借着最近上映的这部电影,本想写几句简短的影评,可是赫然发现,短不了。 《安娜·卡列尼娜》,相信很多读过它的人都和我一样,与它的第一次亲密接触还是......", 
+                    "reviewRating": "5", 
+                    "reviewScore": "0.701417"
+                }
+            ]
+        }
+    ], 
+    "coverImage": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "http://image.cmfu.com/books/1.jpg"
+                }
+            ]
+        }
+    ], 
+    "description": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "  s大朝南的宿舍楼里,一个个学生离奇的失踪了。。但这却如他们导员所料。这貌似理所应当的失踪案里到底隐藏着什么?是对未知的恐惧,还是人性的错误?"
+                }
+            ]
+        }
+    ], 
+    "dirUrl": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "http://read.qidian.com/BookReader/2182862.aspx"
+                }
+            ]
+        }
+    ], 
+    "freeChapterNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "50"
+                }
+            ]
+        }
+    ], 
+    "genre": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "恐怖惊悚 "
+                }
+            ]
+        }
+    ], 
+    "isFree": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "isKGCoreData": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "language": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中文"
+                }
+            ]
+        }
+    ], 
+    "length": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中篇"
+                }
+            ]
+        }
+    ], 
+    "name": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "沉默的兵山"
+                }
+            ]
+        }
+    ], 
+    "publicationStatus": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "publishAgency": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "新华出版社"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "商务出版社"
+                }
+            ]
+        }
+    ], 
+    "realOfAuthor": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "爱的罗曼史02"
+                }
+            ]
+        }
+    ], 
+    "recommendNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "100000"
+                }
+            ]
+        }
+    ], 
+    "tag": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "梦游者传奇之身份之谜"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "玄衣风飞"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "霸主风云"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "豪门第一长媳"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "（穿书）为狐"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "梦游者传奇之身份之谜"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "玄衣风飞"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "霸主风云"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "豪门第一长媳"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "（穿书）为狐"
+                }
+            ]
+        }
+    ], 
+    "updateStatus": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "已完结"
+                }
+            ]
+        }
+    ], 
+    "wordCount": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "500000"
+                }
+            ]
+        }
+    ]
+}
+{
+    "@id": "7f3c7b7bf374b2a1eab9022814cb07dc", 
+    "@type": [
+        "Novel"
+    ], 
+    "_uri": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "7f3c7b7bf374b2a1eab9022814cb07dc"
+                }
+            ]
+        }
+    ], 
+    "aggregateRating": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "fromSite": "www.jjwxc.net", 
+                    "ratingCount": "100", 
+                    "reviewCount": "9.9"
+                }
+            ]
+        }
+    ], 
+    "areaOfAuthor": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中国"
+                }
+            ]
+        }
+    ], 
+    "author": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "千央公子"
+                }
+            ]
+        }
+    ], 
+    "chapterNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "100"
+                }
+            ]
+        }
+    ], 
+    "comments": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "茉莉微言", 
+                    "reviewBody": "有句话说的很好: 我固然喜欢看书喜欢思考,但归根结蒂并非适合做学问的人。借用普希金诗句,那便是: 各国历史事件——一座高耸的灰山,我不想在那上面,东觅西寻......", 
+                    "reviewRating": "3", 
+                    "reviewScore": "0.698917"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "钮钮丑丑", 
+                    "reviewBody": "每次看村上的书心中都很忐忑。他的书关于成年人激情的描写都很详细露骨。看着都有那么点紧张,生怕被别人发现。。。不过这都是题外话,那只是故事的一部分而已。 还......", 
+                    "reviewRating": "4", 
+                    "reviewScore": "0.670583"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "Tracy", 
+                    "reviewBody": "推荐理由:原以为是充满小资情怀的轻松沐浴读物,没想到内容涉及到很多法国大革命时期的历史,正好赶上刚看完悲惨世界不久,对法国的好奇和向往也远不止奢华之物可以......", 
+                    "reviewRating": "4", 
+                    "reviewScore": "0.650583"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "菠萝蜜", 
+                    "reviewBody": "沈复分明是中国的普鲁斯特。或者说,普鲁斯特是法国的沈复。中心语与语意重心的安置,使“**是**”的判断句表达法有了情感偏差,so,还不如用数学的表达,说:沈......", 
+                    "reviewRating": "5", 
+                    "reviewScore": "0.749417"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "perpetualyl", 
+                    "reviewBody": "父亲被害,师父惨死,黄蓉离去,母亲自杀,大汗追捕,兄弟诀别,郭靖踏上了南下之路,看着横尸遍野,民生凋敝,这时的他情绪低落到了极点。这个看上去和许三多一样脑......", 
+                    "reviewRating": "4", 
+                    "reviewScore": "0.646583"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "Miss. Coco", 
+                    "reviewBody": "今年读的这本书吧,每个男人都有两个女人,一个红玫瑰,一个白玫瑰。 红玫瑰热情奔放,白玫瑰容情似水。不能说哪个好,哪个不好,对哪个是真爱,对......", 
+                    "reviewRating": "4", 
+                    "reviewScore": "0.702500"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "cecilia", 
+                    "reviewBody": "借着最近上映的这部电影,本想写几句简短的影评,可是赫然发现,短不了。 《安娜·卡列尼娜》,相信很多读过它的人都和我一样,与它的第一次亲密接触还是......", 
+                    "reviewRating": "5", 
+                    "reviewScore": "0.701417"
+                }
+            ]
+        }
+    ], 
+    "dateModified": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "2011-11-12 16:18:48"
+                }
+            ]
+        }
+    ], 
+    "description": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "呼啸的火海卷袭着整座城堡,高大宏伟的建筑如脆弱不堪的水晶宫殿一般,在他的面前,支离破碎。所有的希望在一瞬间被掐得窒息。他脸上明媚灿烂的笑容刹那间凝固,就如同他所拥有的幸福一样,还来不及褪去它原本美好的样子,就已被残忍地摧毁掉灵魂的形状。鲜血埋葬的牢笼,脏污的池水的冰冷从脚底直直地冲上心脏。疼痛?是,凌迟般,疼痛。耻辱?是,奴隶般,耻辱。浓郁的鲜血化在他的瞳孔深处,燃起炽热的仇恨的火焰。——早晚有一天,你给我的所有的,所有的屈辱与痛苦,我都会悉数奉还给你。"
+                }
+            ]
+        }
+    ], 
+    "freeChapterNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "50"
+                }
+            ]
+        }
+    ], 
+    "genre": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "原创,言情,架空历史,爱情 "
+                }
+            ]
+        }
+    ], 
+    "isFree": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "isKGCoreData": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "language": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中文"
+                }
+            ]
+        }
+    ], 
+    "length": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中篇"
+                }
+            ]
+        }
+    ], 
+    "name": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "夜族骑士,艾因斯"
+                }
+            ]
+        }
+    ], 
+    "publicationStatus": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "publishAgency": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "新华出版社"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "商务出版社"
+                }
+            ]
+        }
+    ], 
+    "realOfAuthor": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "千央公子"
+                }
+            ]
+        }
+    ], 
+    "tag": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "梦游者传奇之身份之谜"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "玄衣风飞"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "霸主风云"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "豪门第一长媳"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "（穿书）为狐"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "梦游者传奇之身份之谜"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "玄衣风飞"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "霸主风云"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "豪门第一长媳"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "（穿书）为狐"
+                }
+            ]
+        }
+    ], 
+    "wordCount": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "500000"
+                }
+            ]
+        }
+    ]
+}
+{
+    "@id": "1ec1ce6c9cbcc468cafb1045ea63d37a", 
+    "@type": [
+        "Novel"
+    ], 
+    "_uri": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1ec1ce6c9cbcc468cafb1045ea63d37a"
+                }
+            ]
+        }
+    ], 
+    "aggregateRating": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "fromSite": "www.qidian.com", 
+                    "ratingCount": "100", 
+                    "reviewCount": "9.9"
+                }
+            ]
+        }
+    ], 
+    "areaOfAuthor": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中国"
+                }
+            ]
+        }
+    ], 
+    "author": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "控魂行者"
+                }
+            ]
+        }
+    ], 
+    "chapterNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "100"
+                }
+            ]
+        }
+    ], 
+    "comments": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "茉莉微言", 
+                    "reviewBody": "有句话说的很好: 我固然喜欢看书喜欢思考,但归根结蒂并非适合做学问的人。借用普希金诗句,那便是: 各国历史事件——一座高耸的灰山,我不想在那上面,东觅西寻......", 
+                    "reviewRating": "3", 
+                    "reviewScore": "0.698917"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "钮钮丑丑", 
+                    "reviewBody": "每次看村上的书心中都很忐忑。他的书关于成年人激情的描写都很详细露骨。看着都有那么点紧张,生怕被别人发现。。。不过这都是题外话,那只是故事的一部分而已。 还......", 
+                    "reviewRating": "4", 
+                    "reviewScore": "0.670583"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "Tracy", 
+                    "reviewBody": "推荐理由:原以为是充满小资情怀的轻松沐浴读物,没想到内容涉及到很多法国大革命时期的历史,正好赶上刚看完悲惨世界不久,对法国的好奇和向往也远不止奢华之物可以......", 
+                    "reviewRating": "4", 
+                    "reviewScore": "0.650583"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "菠萝蜜", 
+                    "reviewBody": "沈复分明是中国的普鲁斯特。或者说,普鲁斯特是法国的沈复。中心语与语意重心的安置,使“**是**”的判断句表达法有了情感偏差,so,还不如用数学的表达,说:沈......", 
+                    "reviewRating": "5", 
+                    "reviewScore": "0.749417"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "perpetualyl", 
+                    "reviewBody": "父亲被害,师父惨死,黄蓉离去,母亲自杀,大汗追捕,兄弟诀别,郭靖踏上了南下之路,看着横尸遍野,民生凋敝,这时的他情绪低落到了极点。这个看上去和许三多一样脑......", 
+                    "reviewRating": "4", 
+                    "reviewScore": "0.646583"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "Miss. Coco", 
+                    "reviewBody": "今年读的这本书吧,每个男人都有两个女人,一个红玫瑰,一个白玫瑰。 红玫瑰热情奔放,白玫瑰容情似水。不能说哪个好,哪个不好,对哪个是真爱,对......", 
+                    "reviewRating": "4", 
+                    "reviewScore": "0.702500"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "cecilia", 
+                    "reviewBody": "借着最近上映的这部电影,本想写几句简短的影评,可是赫然发现,短不了。 《安娜·卡列尼娜》,相信很多读过它的人都和我一样,与它的第一次亲密接触还是......", 
+                    "reviewRating": "5", 
+                    "reviewScore": "0.701417"
+                }
+            ]
+        }
+    ], 
+    "coverImage": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "http://image.cmfu.com/books/3084831/3084831.jpg"
+                }
+            ]
+        }
+    ], 
+    "description": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "  每个人都有自己的希望与志向,并且不断的编织着自己那虚幻的梦想。     -或许,因为种种的原因,将自己的梦想遗忘到内心的深处。     -或许,一时间的烦恼,已经将自己的梦想给遮蔽。     -又或许,已经将自己的梦想所放弃。     钟子牙,一名普普通通的高三学生,在这个时候,他陷入了迷茫,并且逐渐的,已经失去了自己的梦想,那么,在接下来的高三生活当中,他又是否能够重新的拾起自己的梦想呢。     -我或许写的并不是太好,我也没打算怎么好好的写,书名因为一些原因,是改不了了,还有,由于写作方面不太娴熟的原因,那些什么都市里的场景基本上都不会有吧。大多就是围绕着校园写的。    "
+                }
+            ]
+        }
+    ], 
+    "dirUrl": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "http://read.qidian.com/BookReader/3084831.aspx"
+                }
+            ]
+        }
+    ], 
+    "freeChapterNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "50"
+                }
+            ]
+        }
+    ], 
+    "genre": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "青春校园 "
+                }
+            ]
+        }
+    ], 
+    "isFree": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "isKGCoreData": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "language": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中文"
+                }
+            ]
+        }
+    ], 
+    "length": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中篇"
+                }
+            ]
+        }
+    ], 
+    "name": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "《我的妖孽大小姐》"
+                }
+            ]
+        }
+    ], 
+    "publicationStatus": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "publishAgency": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "新华出版社"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "商务出版社"
+                }
+            ]
+        }
+    ], 
+    "realOfAuthor": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "控魂行者"
+                }
+            ]
+        }
+    ], 
+    "recommendNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "100000"
+                }
+            ]
+        }
+    ], 
+    "tag": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "梦游者传奇之身份之谜"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "玄衣风飞"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "霸主风云"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "豪门第一长媳"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "（穿书）为狐"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "梦游者传奇之身份之谜"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "玄衣风飞"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "霸主风云"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "豪门第一长媳"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "（穿书）为狐"
+                }
+            ]
+        }
+    ], 
+    "updateStatus": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "已完结"
+                }
+            ]
+        }
+    ], 
+    "wordCount": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "500000"
+                }
+            ]
+        }
+    ]
+}
+{
+    "@id": "http://www.17k.com/book/824231.html", 
+    "@type": [
+        "Novel"
+    ], 
+    "aggregateRating": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "fromSite": "www.17k.com", 
+                    "ratingCount": "100", 
+                    "reviewCount": "9.9"
+                }
+            ]
+        }
+    ], 
+    "areaOfAuthor": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中国"
+                }
+            ]
+        }
+    ], 
+    "author": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "竹凉星恒"
+                }
+            ]
+        }
+    ], 
+    "chapterNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "100"
+                }
+            ]
+        }
+    ], 
+    "coverImage": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "http://img.17k.com/images/bookcover/default_cover1.jpg"
+                }
+            ]
+        }
+    ], 
+    "dateModified": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "2014-05-15 13:54"
+                }
+            ]
+        }
+    ], 
+    "description": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "  本以为一生平凡度过,却意外走上强者之路。凭着另一个神秘身份能否成为大陆顶尖强者,并且在另外一个强大的位面打造出属于自己的大势力!"
+                }
+            ]
+        }
+    ], 
+    "dirUrl": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "http://mm.17k.com/list/824231.html"
+                }
+            ]
+        }
+    ], 
+    "freeChapterNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "50"
+                }
+            ]
+        }
+    ], 
+    "genre": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "东方玄幻"
+                }
+            ]
+        }
+    ], 
+    "isFree": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "isKGCoreData": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "0"
+                }
+            ]
+        }
+    ], 
+    "language": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中文"
+                }
+            ]
+        }
+    ], 
+    "length": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中篇"
+                }
+            ]
+        }
+    ], 
+    "name": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "雷玄荒恒"
+                }
+            ]
+        }
+    ], 
+    "publicationStatus": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "publishAgency": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "新华出版社"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "商务出版社"
+                }
+            ]
+        }
+    ], 
+    "realOfAuthor": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "竹凉星恒"
+                }
+            ]
+        }
+    ], 
+    "sameAS": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "refer": "c2979073855f5d6b22967f9c34da7b58"
+                }
+            ]
+        }
+    ], 
+    "tag": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "梦游者传奇之身份之谜"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "玄衣风飞"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "霸主风云"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "豪门第一长媳"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "（穿书）为狐"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "梦游者传奇之身份之谜"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "玄衣风飞"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "霸主风云"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "豪门第一长媳"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "（穿书）为狐"
+                }
+            ]
+        }
+    ], 
+    "updateStatus": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "连载中"
+                }
+            ]
+        }
+    ], 
+    "wordCount": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "500000"
+                }
+            ]
+        }
+    ]
+}
+{
+    "@id": "http://www.17k.com/book/1092726.html", 
+    "@type": [
+        "Novel"
+    ], 
+    "aggregateRating": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "fromSite": "www.17k.com", 
+                    "ratingCount": "100", 
+                    "reviewCount": "9.9"
+                }
+            ]
+        }
+    ], 
+    "areaOfAuthor": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中国"
+                }
+            ]
+        }
+    ], 
+    "author": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "梧桐时节"
+                }
+            ]
+        }
+    ], 
+    "chapterNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "100"
+                }
+            ]
+        }
+    ], 
+    "coverImage": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "http://img.17k.com/images/bookcover/default_cover1.jpg"
+                }
+            ]
+        }
+    ], 
+    "dateModified": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "12分钟前更新"
+                }
+            ]
+        }
+    ], 
+    "description": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "  这本书很赞"
+                }
+            ]
+        }
+    ], 
+    "dirUrl": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "http://mm.17k.com/list/1092726.html"
+                }
+            ]
+        }
+    ], 
+    "freeChapterNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "50"
+                }
+            ]
+        }
+    ], 
+    "genre": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "青青校园"
+                }
+            ]
+        }
+    ], 
+    "isFree": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "isKGCoreData": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "0"
+                }
+            ]
+        }
+    ], 
+    "language": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中文"
+                }
+            ]
+        }
+    ], 
+    "length": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中篇"
+                }
+            ]
+        }
+    ], 
+    "name": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "青草香"
+                }
+            ]
+        }
+    ], 
+    "publicationStatus": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "publishAgency": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "新华出版社"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "商务出版社"
+                }
+            ]
+        }
+    ], 
+    "realOfAuthor": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "梧桐时节"
+                }
+            ]
+        }
+    ], 
+    "sameAS": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "refer": "f8b0bf2cb96ed1774b48c534f2a03964"
+                }
+            ]
+        }
+    ], 
+    "tag": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "梦游者传奇之身份之谜"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "玄衣风飞"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "霸主风云"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "豪门第一长媳"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "（穿书）为狐"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "梦游者传奇之身份之谜"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "玄衣风飞"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "霸主风云"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "豪门第一长媳"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "（穿书）为狐"
+                }
+            ]
+        }
+    ], 
+    "updateStatus": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "连载中"
+                }
+            ]
+        }
+    ], 
+    "wordCount": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "500000"
+                }
+            ]
+        }
+    ]
+}
+{
+    "@id": "5e0b8e29e0e121cd55a7f622edc5ae27", 
+    "@type": [
+        "Novel"
+    ], 
+    "_uri": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "5e0b8e29e0e121cd55a7f622edc5ae27"
+                }
+            ]
+        }
+    ], 
+    "aggregateRating": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "fromSite": "www.qidian.com", 
+                    "ratingCount": "100", 
+                    "reviewCount": "9.9"
+                }
+            ]
+        }
+    ], 
+    "areaOfAuthor": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中国"
+                }
+            ]
+        }
+    ], 
+    "author": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "流水漪澜"
+                }
+            ]
+        }
+    ], 
+    "chapterNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "100"
+                }
+            ]
+        }
+    ], 
+    "comments": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "茉莉微言", 
+                    "reviewBody": "有句话说的很好: 我固然喜欢看书喜欢思考,但归根结蒂并非适合做学问的人。借用普希金诗句,那便是: 各国历史事件——一座高耸的灰山,我不想在那上面,东觅西寻......", 
+                    "reviewRating": "3", 
+                    "reviewScore": "0.698917"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "钮钮丑丑", 
+                    "reviewBody": "每次看村上的书心中都很忐忑。他的书关于成年人激情的描写都很详细露骨。看着都有那么点紧张,生怕被别人发现。。。不过这都是题外话,那只是故事的一部分而已。 还......", 
+                    "reviewRating": "4", 
+                    "reviewScore": "0.670583"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "Tracy", 
+                    "reviewBody": "推荐理由:原以为是充满小资情怀的轻松沐浴读物,没想到内容涉及到很多法国大革命时期的历史,正好赶上刚看完悲惨世界不久,对法国的好奇和向往也远不止奢华之物可以......", 
+                    "reviewRating": "4", 
+                    "reviewScore": "0.650583"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "菠萝蜜", 
+                    "reviewBody": "沈复分明是中国的普鲁斯特。或者说,普鲁斯特是法国的沈复。中心语与语意重心的安置,使“**是**”的判断句表达法有了情感偏差,so,还不如用数学的表达,说:沈......", 
+                    "reviewRating": "5", 
+                    "reviewScore": "0.749417"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "perpetualyl", 
+                    "reviewBody": "父亲被害,师父惨死,黄蓉离去,母亲自杀,大汗追捕,兄弟诀别,郭靖踏上了南下之路,看着横尸遍野,民生凋敝,这时的他情绪低落到了极点。这个看上去和许三多一样脑......", 
+                    "reviewRating": "4", 
+                    "reviewScore": "0.646583"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "Miss. Coco", 
+                    "reviewBody": "今年读的这本书吧,每个男人都有两个女人,一个红玫瑰,一个白玫瑰。 红玫瑰热情奔放,白玫瑰容情似水。不能说哪个好,哪个不好,对哪个是真爱,对......", 
+                    "reviewRating": "4", 
+                    "reviewScore": "0.702500"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "reviewAuthor": "cecilia", 
+                    "reviewBody": "借着最近上映的这部电影,本想写几句简短的影评,可是赫然发现,短不了。 《安娜·卡列尼娜》,相信很多读过它的人都和我一样,与它的第一次亲密接触还是......", 
+                    "reviewRating": "5", 
+                    "reviewScore": "0.701417"
+                }
+            ]
+        }
+    ], 
+    "coverImage": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "http://image.cmfu.com/books/1640438/1640438.jpg"
+                }
+            ]
+        }
+    ], 
+    "description": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "  柳一鸣,本来过着平凡的生活,却因为一位美女的闯入,而开始变得与众不同,也由此叩开了玄幻世界的大门。     从美女口中得知,原来诛仙世界并不是虚构的,而是现实存在的,只不过有结界的保护,才不被世人所发现。而诛仙的故事则来源于八百年前的诛仙世界……     柳一鸣强烈要求美女带他到诛仙世界,去体验曾经的传奇,然而八百年后的诛仙也翻天覆地、与时俱进了……     一场浩瀚的全新传奇,即将展开,看柳一鸣如何纵横三界,而他又能否得见传说中的鬼厉呢……尽在《千缘仙恋》"
+                }
+            ]
+        }
+    ], 
+    "dirUrl": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "http://read.qidian.com/BookReader/1640438.aspx"
+                }
+            ]
+        }
+    ], 
+    "freeChapterNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "50"
+                }
+            ]
+        }
+    ], 
+    "genre": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "奇幻修真 "
+                }
+            ]
+        }
+    ], 
+    "isFree": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "isKGCoreData": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "language": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中文"
+                }
+            ]
+        }
+    ], 
+    "length": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中篇"
+                }
+            ]
+        }
+    ], 
+    "name": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "千缘仙恋"
+                }
+            ]
+        }
+    ], 
+    "publicationStatus": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "publishAgency": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "新华出版社"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "商务出版社"
+                }
+            ]
+        }
+    ], 
+    "realOfAuthor": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "流水漪澜"
+                }
+            ]
+        }
+    ], 
+    "recommendNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "100000"
+                }
+            ]
+        }
+    ], 
+    "tag": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "梦游者传奇之身份之谜"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "玄衣风飞"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "霸主风云"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "豪门第一长媳"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "（穿书）为狐"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "梦游者传奇之身份之谜"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "玄衣风飞"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "霸主风云"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "豪门第一长媳"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "（穿书）为狐"
+                }
+            ]
+        }
+    ], 
+    "updateStatus": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "已完结"
+                }
+            ]
+        }
+    ], 
+    "wordCount": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "500000"
+                }
+            ]
+        }
+    ]
+}
+{
+    "@id": "http://www.17k.com/book/375527.html", 
+    "@type": [
+        "Novel"
+    ], 
+    "aggregateRating": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "fromSite": "www.17k.com", 
+                    "ratingCount": "100", 
+                    "reviewCount": "9.9"
+                }
+            ]
+        }
+    ], 
+    "areaOfAuthor": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中国"
+                }
+            ]
+        }
+    ], 
+    "author": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "半晴天空"
+                }
+            ]
+        }
+    ], 
+    "chapterNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "100"
+                }
+            ]
+        }
+    ], 
+    "coverImage": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "http://img.17k.com/images/bookcover/2012/1877/9/375527.jpg"
+                }
+            ]
+        }
+    ], 
+    "dateModified": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "2012-10-01 11:06"
+                }
+            ]
+        }
+    ], 
+    "description": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "  她,是妖也是神,只会对自己在乎的人欢笑,哭泣。  他,是神界的神皇,只希望自己爱的人,能够幸福,快乐。  而他,既是魔尊,也是她的师父,更是打伤了她的创世神。  万年前,他们的相遇,注定了他们的缘分。  持续了万年的爱情,坚守了万年的约定,结局又会如何?  九狐:到头来,只是一场梦罢了。。一场,爱恨情仇的梦。。  苏泠:我们,不会再分开。。  **********分界线就是我=-=~**********  咳咳。。阿空在此声明:苏泠是魔尊的名字,御子慕是九狐师父的名字,苏涼是魔尊弟弟的名字。。至于他的本名,也就是创世神的名字嘛。。就叫苏墨好了。。其实他们就是一个人啦~"
+                }
+            ]
+        }
+    ], 
+    "dirUrl": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "http://mm.17k.com/list/375527.html"
+                }
+            ]
+        }
+    ], 
+    "freeChapterNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "50"
+                }
+            ]
+        }
+    ], 
+    "genre": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "玄幻仙侠"
+                }
+            ]
+        }
+    ], 
+    "isFree": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "isKGCoreData": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "0"
+                }
+            ]
+        }
+    ], 
+    "language": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中文"
+                }
+            ]
+        }
+    ], 
+    "length": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中篇"
+                }
+            ]
+        }
+    ], 
+    "name": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "神狐记"
+                }
+            ]
+        }
+    ], 
+    "publicationStatus": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "publishAgency": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "新华出版社"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "商务出版社"
+                }
+            ]
+        }
+    ], 
+    "realOfAuthor": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "半晴天空"
+                }
+            ]
+        }
+    ], 
+    "sameAS": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "refer": "b49458f93b74bbf54a936c580ea6cf47"
+                }
+            ]
+        }
+    ], 
+    "tag": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "梦游者传奇之身份之谜"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "玄衣风飞"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "霸主风云"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "豪门第一长媳"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "（穿书）为狐"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "梦游者传奇之身份之谜"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "玄衣风飞"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "霸主风云"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "豪门第一长媳"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "（穿书）为狐"
+                }
+            ]
+        }
+    ], 
+    "updateStatus": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "连载中"
+                }
+            ]
+        }
+    ], 
+    "wordCount": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "500000"
+                }
+            ]
+        }
+    ]
+}
+{
+    "@id": "http://www.17k.com/book/769256.html", 
+    "@type": [
+        "Novel"
+    ], 
+    "aggregateRating": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "fromSite": "www.17k.com", 
+                    "ratingCount": "100", 
+                    "reviewCount": "9.9"
+                }
+            ]
+        }
+    ], 
+    "areaOfAuthor": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中国"
+                }
+            ]
+        }
+    ], 
+    "author": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "歆凌"
+                }
+            ]
+        }
+    ], 
+    "chapterNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "100"
+                }
+            ]
+        }
+    ], 
+    "coverImage": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "http://img.17k.com/images/bookcover/default_cover2.jpg"
+                }
+            ]
+        }
+    ], 
+    "dateModified": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "21分钟前更新"
+                }
+            ]
+        }
+    ], 
+    "description": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "  东朝凌然郡主沐唯书与绝遥将军林逸东的唯美爱情,凌然郡主与礼部尚书之子周胧博一同长大,青梅竹马,两情相悦,本已私定终身,不料东朝太子沐恒却有意于凌然郡主,万般无奈下,沐唯书只得嫁于绝遥将军从而发生了一段刻骨铭心得爱恋。。。。。。。。。。。"
+                }
+            ]
+        }
+    ], 
+    "dirUrl": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "http://mm.17k.com/list/769256.html"
+                }
+            ]
+        }
+    ], 
+    "freeChapterNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "50"
+                }
+            ]
+        }
+    ], 
+    "genre": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "宫廷贵族"
+                }
+            ]
+        }
+    ], 
+    "isFree": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "isKGCoreData": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "0"
+                }
+            ]
+        }
+    ], 
+    "language": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中文"
+                }
+            ]
+        }
+    ], 
+    "length": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中篇"
+                }
+            ]
+        }
+    ], 
+    "name": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "许你花前月下"
+                }
+            ]
+        }
+    ], 
+    "publicationStatus": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "publishAgency": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "新华出版社"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "商务出版社"
+                }
+            ]
+        }
+    ], 
+    "realOfAuthor": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "歆凌"
+                }
+            ]
+        }
+    ], 
+    "sameAS": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "refer": "f3d69f2e8664278817652d4be0c92845"
+                }
+            ]
+        }
+    ], 
+    "tag": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "梦游者传奇之身份之谜"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "玄衣风飞"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "霸主风云"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "豪门第一长媳"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "（穿书）为狐"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "梦游者传奇之身份之谜"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "玄衣风飞"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "霸主风云"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "豪门第一长媳"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "（穿书）为狐"
+                }
+            ]
+        }
+    ], 
+    "updateStatus": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "连载中"
+                }
+            ]
+        }
+    ], 
+    "wordCount": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "500000"
+                }
+            ]
+        }
+    ]
+}
+{
+    "@id": "http://www.qidian.com/Book/3596770.aspx", 
+    "@type": [
+        "Novel"
+    ], 
+    "aggregateRating": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "StructuredValue", 
+                    "fromSite": "www.qidian.com", 
+                    "ratingCount": "100", 
+                    "reviewCount": "9.9"
+                }
+            ]
+        }
+    ], 
+    "areaOfAuthor": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中国"
+                }
+            ]
+        }
+    ], 
+    "author": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "艾绒"
+                }
+            ]
+        }
+    ], 
+    "chapterNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "100"
+                }
+            ]
+        }
+    ], 
+    "coverImage": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "http://image.cmfu.com/books/3596770/3596770.jpg"
+                }
+            ]
+        }
+    ], 
+    "description": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "  来自我的世界之梦想之城服务器的一部小说,讲述了艾绒的成名经历及其兄弟们的崛起实际。《我的世界之梦想之城》的姐妹作"
+                }
+            ]
+        }
+    ], 
+    "dirUrl": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "http://read.qidian.com/BookReader/cU_W4PPpxSU1.aspx"
+                }
+            ]
+        }
+    ], 
+    "freeChapterNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "50"
+                }
+            ]
+        }
+    ], 
+    "genre": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "虚拟网游 "
+                }
+            ]
+        }
+    ], 
+    "isFree": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "isKGCoreData": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "0"
+                }
+            ]
+        }
+    ], 
+    "language": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中文"
+                }
+            ]
+        }
+    ], 
+    "length": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "中篇"
+                }
+            ]
+        }
+    ], 
+    "name": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "我的世界之梦想之城反熊伍"
+                }
+            ]
+        }
+    ], 
+    "publicationStatus": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "1"
+                }
+            ]
+        }
+    ], 
+    "publishAgency": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "新华出版社"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "商务出版社"
+                }
+            ]
+        }
+    ], 
+    "realOfAuthor": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "艾绒"
+                }
+            ]
+        }
+    ], 
+    "recommendNum": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "100000"
+                }
+            ]
+        }
+    ], 
+    "sameAS": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "refer": "fe128e13407abe74bf110a518e12b2bc"
+                }
+            ]
+        }
+    ], 
+    "tag": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "梦游者传奇之身份之谜"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "玄衣风飞"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "霸主风云"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "豪门第一长媳"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "（穿书）为狐"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "梦游者传奇之身份之谜"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "玄衣风飞"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "霸主风云"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "豪门第一长媳"
+                }
+            ]
+        }, 
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "fromUrl": "shiyabing01", 
+                    "score": "9.9", 
+                    "value": "（穿书）为狐"
+                }
+            ]
+        }
+    ], 
+    "updateStatus": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "已完结"
+                }
+            ]
+        }
+    ], 
+    "wordCount": [
+        {
+            "meta": [
+                {
+                    "@type": "MetaSPO", 
+                    "timeGenerate": "1447919662", 
+                    "timeLastMod": "1447919662"
+                }
+            ], 
+            "objects": [
+                {
+                    "@type": "bkgss:Text", 
+                    "value": "500000"
+                }
+            ]
+        }
+    ]
+}

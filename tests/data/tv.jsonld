@@ -1,0 +1,162 @@
+{
+    "@id": "http://baiduvideo.cntv.cn/video/C39369/23f34a7f1cb54a2fb59d752f20b13f19", 
+    "@type": "TVEpisode", 
+    "episodeNumber": {
+        "sequenceNumber": "14"
+    }, 
+    "playUrl": "http://tv.cntv.cn/video/C39369/23f34a7f1cb54a2fb59d752f20b13f19", 
+    "tvSeriesOf": {
+        "@id": "http://baiduvideo.cntv.cn/a.html?fromlink=video_data_tv_17110&sign=obj_baiduvideo.cntv.cn"
+    }
+}
+{
+    "@id": "http://www.tudou.com/albumplay/vZltF1LRvRY/HVnGrTwBX3w.html?tpa=dW5pb25faWQ9MTAzNjY3XzEwMDAwMV8wMV8wMQ", 
+    "@type": "TVEpisode", 
+    "advertisingDuration": {
+        "duration": "360"
+    }, 
+    "duration": "360", 
+    "episodeNumber": {
+        "displayName": "108", 
+        "sequenceNumber": "108"
+    }, 
+    "mPlayUrl": "http://www.tudou.com/albumplay/vZltF1LRvRY/HVnGrTwBX3w.html?tpa=dW5pb25faWQ9MTAzNjY3XzEwMDAwMV8wMV8wMQ", 
+    "name": "108神秘丛林", 
+    "playUrl": "http://www.tudou.com/albumplay/vZltF1LRvRY/HVnGrTwBX3w.html?tpa=dW5pb25faWQ9MTAzNjY3XzEwMDAwMV8wMV8wMQ", 
+    "thumbnailUrl": "http://r3.ykimg.com/05430408547C38626A0A4D04C4349F66", 
+    "tvSeriesOf": {
+        "@id": "http://www.tudou.com/albumcover/vZltF1LRvRY.html"
+    }, 
+    "videoAspectRatio": "http://r3.ykimg.com/05430408547C38626A0A4D04C4349F66"
+}
+{
+    "@id": "http://v.61.com/comic/9131/7.shtml", 
+    "@type": "TVEpisode", 
+    "duration": "300", 
+    "episodeNumber": {
+        "sequenceNumber": "7"
+    }, 
+    "name": "山猫和吉咪之一家亲第7集_[动画大放映]《山猫和吉咪之一家亲》 第7集 种糖果 20131023", 
+    "playUrl": "http://play.v.61.com/comic-play/9131/7.shtml", 
+    "tvSeriesOf": {
+        "@id": "http://v.61.com/comic/9131/"
+    }
+}
+{
+    "@id": "http://v.61.com/comic/7966/42.shtml", 
+    "@type": "TVEpisode", 
+    "duration": "10", 
+    "episodeNumber": {
+        "sequenceNumber": "42"
+    }, 
+    "name": "梦想学院电视栏目视频第42集_第42集", 
+    "playUrl": "http://61.iqiyi.com/comic-play/7966/42.shtml", 
+    "tvSeriesOf": {
+        "@id": "http://v.61.com/comic/7966/"
+    }
+}
+{
+    "@id": "http://www.fun.tv/vplay/m-43280.e-306/?alliance=155085", 
+    "@type": "TVEpisode", 
+    "advertisingDuration": {
+        "duration": "15"
+    }, 
+    "duration": "1771", 
+    "episodeNumber": {
+        "displayName": "306", 
+        "sequenceNumber": "306"
+    }, 
+    "name": "名侦探柯南 第306集", 
+    "playUrl": "http://www.fun.tv/vplay/m-43280.e-306/?alliance=950002", 
+    "thumbnailUrl": "http://img.funshion.com/img/default/noimage_c.jpg", 
+    "tvSeriesOf": {
+        "@id": "http://www.fun.tv/subject/43280/?alliance=155085"
+    }, 
+    "videoAspectRatio": "16:9", 
+    "videoResolution": "720"
+}
+{
+    "@id": "http://tv.sohu.com/20141003/n404842392.shtml", 
+    "@type": "TVEpisode", 
+    "advertisingDuration": {
+        "duration": "60"
+    }, 
+    "description": "小新是一个年仅５岁，正在幼儿园上学的小男孩。他内心早熟，喜欢欣赏并向美女搭讪。最初小新与父亲广志和母亲美伢组成一个三人家族。随后又添加了流浪狗小白，日子频繁琐碎却不乏温馨感动。随着故事展开，又加入了新的成员妹妹野原葵。作者臼井仪人从日常生活中的故事取材，叙述小新在日常生活中所发生的事情。小新是一个有点调皮的小孩，他喜欢别出心裁，富于幻想。", 
+    "duration": "438", 
+    "episodeNumber": {
+        "displayName": "623", 
+        "sequenceNumber": "623"
+    }, 
+    "mPlayUrl": "http://pad.tv.sohu.com/20141003/n404842392.shtml?txid=396b67807c14c11654fa8645164ab677", 
+    "name": "蜡笔小新全集第623集", 
+    "playUrl": "http://tv.sohu.com/20141003/n404842392.shtml?txid=28779b26de96a1fdd70dcbd07457c4d0", 
+    "thumbnailUrl": "http://photocdn.sohu.com/20140926/vrs1418630_OGU5v_pic2.jpg", 
+    "tvSeriesOf": {
+        "@id": "http://tv.sohu.com/7275034"
+    }, 
+    "videoResolution": "720"
+}
+{
+    "@id": "http://www.iqiyi.com/v_326157700", 
+    "@type": "TVEpisode", 
+    "advertisingDuration": {
+        "duration": "60"
+    }, 
+    "episodeNumber": {
+        "sequenceNumber": "4"
+    }, 
+    "mPlayUrl": "http://www.iqiyi.com/v_19rrn0yd48.html?vfm=2008_aldbd", 
+    "name": "倪亚达第4集", 
+    "playUrl": "http://www.iqiyi.com/v_19rrn0yd48.html?vfm=2008_aldbd", 
+    "thumbnailUrl": "http://pic2.qiyipic.com/image/20141112/d8/88/v_108691550_m_601_160_120.jpg", 
+    "tvSeriesOf": {
+        "@id": "http://www.iqiyi.com/202225101"
+    }, 
+    "videoAspectRatio": "16:9", 
+    "videoResolution": "320"
+}
+{
+    "@id": "http://baiduvideo.letv.com/ptv/vplay/23278264.html", 
+    "@type": "TVEpisode", 
+    "episodeNumber": {
+        "sequenceNumber": "9"
+    }, 
+    "playUrl": "http://www.letv.com/ptv/vplay/23278264.html?ch=baidu_v", 
+    "tvSeriesOf": {
+        "@id": "http://baiduvideo.letv.com/a.html?fromlink=video_data_comic_794&sign=obj_baiduvideo.letv.com"
+    }
+}
+{
+    "@id": "http://www.wasu.cn/Play/show/id/3878005", 
+    "@type": "TVEpisode", 
+    "duration": "2271", 
+    "episodeNumber": {
+        "sequenceNumber": "15"
+    }, 
+    "mPlayUrl": "http://www.wasu.cn/wap/Play/show/id/3877990?refer=ald.baidu.com", 
+    "name": "大汉天子 第3部 TV版 第15集", 
+    "playUrl": "http://www.wasu.cn/Play/show/id/3878005?refer=ald.baidu.com", 
+    "thumbnailUrl": "http://s.wasu.tv/mams/pic/201407/18/13/201407181319565250a5d8497.jpg", 
+    "tvSeriesOf": {
+        "@id": "http://www.wasu.cn/Tele/index/id/3877990"
+    }, 
+    "videoResolution": "480"
+}
+{
+    "@id": "http://v.youku.com/v_show/id_XMTgzODk4NDMy.html", 
+    "@type": "TVEpisode", 
+    "description": "贝父向皓勇借钱，想再赌翻本，皓勇要贝父以心如做赌注，贝母及时阻止了贝父。沈父追到珍珠市，怒斥心如耽误", 
+    "duration": "3169", 
+    "episodeNumber": {
+        "displayName": "第三集", 
+        "sequenceNumber": "3"
+    }, 
+    "mPlayUrl": "http://v.youku.com/v_show/id_XMTgzODk4NDMy.html?tpa=dW5pb25faWQ9MTAzNjY3XzEwMDAwMV8wMV8wMQ", 
+    "name": "让爱化作珍珠雨 03", 
+    "playUrl": "http://v.youku.com/v_show/id_XMTgzODk4NDMy.html?tpa=dW5pb25faWQ9MTAzNjY3XzEwMDAwMV8wMV8wMQ", 
+    "thumbnailUrl": "http://g1.ykimg.com/01270F1F4651364B3A95CE00000000EDC92459-EFCC-E927-D244-8E8078315D2D", 
+    "tvSeriesOf": {
+        "@id": "http://www.youku.com/show_page/id_zcbfedb28962411de83b1.html"
+    }, 
+    "videoResolution": "480"
+}
